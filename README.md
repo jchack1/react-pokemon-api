@@ -7,5 +7,6 @@ I then created an Express server, and deployed the app using Heroku, with help f
 You may view my React app here: https://react-pokemon-api.herokuapp.com/
 
 Web Dev Simplified tutorial: https://www.youtube.com/watch?v=o3ZUc7zH8BE&list=PLZlA0Gpn_vH_NT5zPVp18nGe_W9LqBDQK&index=3
+
 Medium tutorial: https://medium.com/jeremy-gottfrieds-tech-blog/tutorial-how-to-deploy-a-production-react-app-to-heroku-c4831dfcfa08
 
